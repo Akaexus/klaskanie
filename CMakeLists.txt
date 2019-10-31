@@ -7,4 +7,4 @@ include_directories(.)
 include_directories(4)
 
 add_executable(klaskanie
-        4/fib.cpp 4/stack_class.cpp)
+        4/stack_list.cpp)
