@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(grafy
-        main.cpp)
+        main.cpp Graph.cpp Graph.h List.cpp List.h)
